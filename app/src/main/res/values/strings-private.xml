@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="false">Recurrence</string>
+
+    <string name="one" translatable="false">1</string>
+
+
+    <string name="default_colour_value" translatable="false">#FFC107</string>
+
+    <string name="default_icon_value" translatable="false">ic_notifications_white_24dp</string>
+    <string name="default_drug_icon_value" translatable="false">ic_store_white_24dp</string>
+
+</resources>
